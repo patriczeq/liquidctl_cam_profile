@@ -1,6 +1,8 @@
 # liquidctl_cam_profile
 macOS Applescript -> create and load AIO profile
 
+based on https://github.com/jonasmalacofilho/liquidctl/blob/master/docs/kraken-x2-m2-guide.md
+
 Simple tool to load predefined profile of liquidctl...
 
 There are 2 scripts:
